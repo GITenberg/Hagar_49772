@@ -1,4 +1,8 @@
 _repo: Hagar_49772
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49772-h/images/cover.jpg
 creator:
   author:
     agent_name: Johnston, Mary
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/695
     wikipedia: http://en.wikipedia.org/wiki/Mary_Johnston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49772#Hagar
 gutenberg_issued: '2015-08-24'
 gutenberg_type: Text
 identifiers:
